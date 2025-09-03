@@ -14,7 +14,7 @@ char c;
     case'E':
     case'I':
     case'O':
- 0 case'U':
+    case'U':
         printf("%c est une voyelle.\n", c);
 
     break;
